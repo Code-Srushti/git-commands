@@ -1,0 +1,26 @@
+Creating Online Repository
+
+1. Open github.com
+2. login with your account
+3. Click "New Respository" button
+4. Give name to new respository.
+	eg: test-repo
+5. Give short desription about the respository.(Optional)
+	eg: repo for testing
+6. Check "Initialize this repository with a README." (Optional)
+7. Click "Create respository" button.
+
+Now you got online space for your project named "test-repo". 
+Then need to create local repo where we work. Local repo is just the folder, which is your project folder.
+
+Creating Local Repository
+
+1. Open git shell
+2. Navigate to your project folder
+	eg: D:\test-repo
+3. Enter this command "git init"
+	this command recognize this directory as a local Git repository. your computer now realizes this directory is Git-ready.
+	
+Now you’ve got both an online and a local repo for your project.
+	
+	
